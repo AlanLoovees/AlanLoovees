@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🌱 I’m currently doing my bachelor's degree in Computer Science at FISAT, Kerala, India. (2017-2021 batch)
+⚡ Fun fact: My main Git repository is https://gitlab.com/AlanLoovees
+🔭 I’m currently working on an online exam portal using Django and a mobile app server using NodeJs.
+📫 How to reach me: alanloovees@gmail.com
+
 <!--
 **AlanLoovees/AlanLoovees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
