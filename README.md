@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-🌱 I’m currently doing my bachelor's degree in Computer Science at FISAT, Kerala, India. (2017-2021 batch)
-⚡ Fun fact: My main Git is https://gitlab.com/AlanLoovees
-🔭 I’m currently working on an online exam portal using Django and a mobile app server using NodeJs.
+🌱 I’m currently doing my bachelor's degree in Computer Science at FISAT, Kerala, India. (2017-2021 batch).
+🔭 I’m currently working on building an API for fetching and storing Covid 19 Case-count in Kerala using NodeJS.
 📫 How to reach me: alanloovees@gmail.com
+
+"There's always a better way" ~ Barry Allen, The Flash ⚡
 
 <!--
 **AlanLoovees/AlanLoovees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
