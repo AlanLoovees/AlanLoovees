@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 🌱 I’m currently doing my bachelor's degree in Computer Science at FISAT, Kerala, India. (2017-2021 batch).
+
 🔭 I’m currently working on building an API for fetching and storing Covid 19 Case-count in Kerala using NodeJS.
+
 📫 How to reach me: alanloovees@gmail.com
+
 
 "There's always a better way" ~ Barry Allen, The Flash ⚡
 
