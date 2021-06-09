@@ -2,7 +2,7 @@
 
 🌱 I’m a final year BTech Computer Science student at FISAT, Kerala, India. (2017-2021 batch).
 
-🔭 I’m currently working on building an API for fetching and storing Covid 19 Case-count in Kerala using NodeJS.
+🔭 I’m currently working on my final year BTech Project in Python, Django and React.
 
 📫 How to reach me: alanloovees@gmail.com
 
