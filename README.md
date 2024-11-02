@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🌱 I’m a Software Engineer at BigBinary.
+🌱 I’m a Software Engineer and a Graduate Data Analyst.
 
-👨🏽‍💻 I graduated my BTech in Computer Science from Federal Institute of Science And Technology.
+👨🏽‍💻 I graduated my MSc Data Analytics from the Technological University of the Shannon, Ireland, and  BTech in Computer Science from Federal Institute of Science And Technology, India.
 
 <!-- 🔭 I’m currently working on my final year BTech Project in Python, Django and React. -->
 
