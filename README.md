@@ -7,6 +7,7 @@
 <!-- 🔭 I’m currently working on my final year BTech Project in Python, Django and React. -->
 
 📫 How to reach me: alanloovees@gmail.com
+Download my resume [here](https://github.com/AlanLoovees/AlanLoovees/blob/master/AlanLoovees.pdf)
 
 
 "There's always a better way" ~ Barry Allen, The Flash ⚡
